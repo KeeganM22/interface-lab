@@ -1,0 +1,15 @@
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\bin\Debug\net7.0\Lab inerfaces and Abstract Classes.exe
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\bin\Debug\net7.0\Lab inerfaces and Abstract Classes.deps.json
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\bin\Debug\net7.0\Lab inerfaces and Abstract Classes.runtimeconfig.json
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\bin\Debug\net7.0\Lab inerfaces and Abstract Classes.dll
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\bin\Debug\net7.0\Lab inerfaces and Abstract Classes.pdb
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.csproj.AssemblyReference.cache
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.AssemblyInfoInputs.cache
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.AssemblyInfo.cs
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.csproj.CoreCompileInputs.cache
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.dll
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\refint\Lab inerfaces and Abstract Classes.dll
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.pdb
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\Lab inerfaces and Abstract Classes.genruntimeconfig.cache
+D:\Semester 2\OOP 2\Unit 1\Labs\Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes\obj\Debug\net7.0\ref\Lab inerfaces and Abstract Classes.dll

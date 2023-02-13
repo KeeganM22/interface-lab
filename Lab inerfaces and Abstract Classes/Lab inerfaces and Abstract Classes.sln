@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab inerfaces and Abstract Classes", "Lab inerfaces and Abstract Classes\Lab inerfaces and Abstract Classes.csproj", "{05A7CCB9-EC07-41E4-AFBA-89001DC6F4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A7CCB9-EC07-41E4-AFBA-89001DC6F4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A7CCB9-EC07-41E4-AFBA-89001DC6F4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A7CCB9-EC07-41E4-AFBA-89001DC6F4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A7CCB9-EC07-41E4-AFBA-89001DC6F4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {009066CE-6AFF-4413-977A-7204EE8F64E2}
+	EndGlobalSection
+EndGlobal
